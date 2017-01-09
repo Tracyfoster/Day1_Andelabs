@@ -1,4 +1,4 @@
-var myApp = require('../app/aritGeo.js');
+var myApp = require('../app/dataTypes.js');
 
 (function() {
   'use strict';
